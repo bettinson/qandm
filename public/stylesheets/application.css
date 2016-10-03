@@ -7,3 +7,14 @@ body {
   line-height: 1.5;
   padding: 4em 1em;
 }
+
+#header-link p {
+
+}
+
+.alignleft {
+	float: left;
+}
+.alignright {
+	float: right;
+}
