@@ -1,21 +1,27 @@
 body {
-  background-color:#22A697;
+  background-color: white;
   font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
   text-align:left;
-	color:white;
+	color: black;
   margin: 0 auto;
   max-width: 50em;
   line-height: 1.5;
   padding: 4em 1em;
 }
 
-#header-link p {
-
+img {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  margin-left: 15px;
+  margin-right: 15px;
+  margin-top: 15px;
+  float: left;
 }
-
 .alignleft {
 	float: left;
 }
 .alignright {
-	float: right;
+  
+  float: top;
 }
